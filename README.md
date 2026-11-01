@@ -7,7 +7,7 @@ I build backend systems with a focus on **reliability, scalability, maintainabil
 My primary stack is **Java + Spring Boot**, with hands-on experience across microservices, event-driven systems, messaging, caching, search, and cloud platforms.
 
 <p>
-  <a href="https://ariantoekaputra99.github.io/portofolio/">🌐 Portfolio</a> ·
+  <a href="https://ariantoekaputra.com/">🌐 Portfolio</a> ·
   <a href="https://github.com/ariantoekaputra99">💻 GitHub</a>
 </p>
 
