@@ -76,7 +76,7 @@ An event-driven microservices project exploring backend architecture, asynchrono
 
 My professional portfolio showcasing my engineering background, technical expertise, and selected case studies.
 
-→ [Visit Portfolio](https://ariantoekaputra99.github.io/portofolio/)
+→ [Visit Portfolio](https://ariantoekaputra.com/)
 
 ### 🤖 Telegram Bot
 
