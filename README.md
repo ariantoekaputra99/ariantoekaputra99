@@ -122,7 +122,7 @@ This GitHub is where I:
 If you're interested in backend engineering, distributed systems, cloud architecture, or building reliable software, feel free to connect.
 
 **Portfolio:**  
-https://ariantoekaputra99.github.io/portofolio/
+https://ariantoekaputra.com/
 
 **GitHub:**  
 https://github.com/ariantoekaputra99
